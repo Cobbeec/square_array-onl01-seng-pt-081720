@@ -5,4 +5,4 @@ def square_array(array)
 end
 
 my_array = [1, 2]
-p square_array(my_arr) 
+p square_array(my_array) 
